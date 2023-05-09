@@ -26,4 +26,4 @@ There are some problem solve of
 [11364 - Parking](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2349) : [cpp](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p11364.cpp) , [java](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p11364.java) , [python](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p11364.py)</li>
 <li>
 
-[12577 - Hajj-e-Akbar](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4022) : [cpp](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/%20p12577.cpp) </li>
+[12577 - Hajj-e-Akbar](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4022) : [cpp](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/%20p12577.cpp) [python](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p12577.py) </li>
