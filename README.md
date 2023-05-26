@@ -30,4 +30,8 @@ There are some problem solve of
 
 <li>
 
-[11547 - Automatic Answer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2542) : [python](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p11547.py)
+[11547 - Automatic Answer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2542) : [python](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p11547.py)</li>
+
+<li>
+
+[11727 - Cost Cutting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2827) : [python](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p11727.py)</li>
