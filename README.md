@@ -39,3 +39,7 @@ There are some problem solve of
 <li>
 
 [12250 - Language Detection](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3402) : [python](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p12250.py)</li>
+
+<li>
+
+[12279 - Emoogle Balance](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3431) : [python](https://github.com/Jubayer934/UVa-Problem-Solve/blob/master/p12279.py)</li>
